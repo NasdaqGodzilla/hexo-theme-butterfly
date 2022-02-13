@@ -36,9 +36,10 @@ copy:
 # social settings (社交圖標設置)
 # formal:
 #   icon: link || the description
+# TODO: 增加其他账号
 social:
-  # fab fa-github: https://github.com/xxxxx || Github
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
+  fab fa-github: https://github.com/NasdaqGodzilla || Github
+  fas fa-envelope: mailto:aug3073911@outlook.com || Email
 
 # search (搜索)
 # --------------------------------------
@@ -623,7 +624,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/NasdaqGodzilla
   card_announcement:
     enable: true
     content: This is my Blog
