@@ -591,7 +591,7 @@ hr_icon:
 
 # the subtitle on homepage (主頁subtitle)
 subtitle:
-  enable: false
+  enable: true
   # Typewriter Effect (打字效果)
   effect: true
   # loop (循環打字)
@@ -605,6 +605,9 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
+    - 世事纷纷无穷尽&#44;天数茫茫不可逃
+    - 命自我立 福自己求
+    - Simple but not easy
 
 # Loading Animation (加載動畫)
 preloader: false
