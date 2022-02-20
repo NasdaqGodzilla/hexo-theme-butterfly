@@ -124,7 +124,39 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    # - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/57486f6c69401b4690618cb8.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/57486f1069401b46430ac71f.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/57486f6369401b4681093aa1.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/cover1.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/6FF2C0ADC53B2A714B62C8F3D816B9D5.JPG
+    - https://nasdaqgodzilla.github.io/gallery/cover/56a77a4e69401b756c748b33.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/56d107c769401b79f1a427e6.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/31575555637_.pic_hd.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/141575555790_.pic_hd.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/Latern2022_ZH-CN0112710917_1920x1080.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallhaven-0w2qz6.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallhaven-1klw71.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallhaven-3zg13v.png
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallhaven-3zgyxy.png
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallhaven-4groz3.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallhaven-4lllel.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallhaven-6o7gvx.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallhaven-47m1ly.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallhaven-47y73e.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallhaven-49j6dk.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallhaven-49y9vk.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallhaven-e7rpko.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallhaven-g7vx3e.png
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallhaven-g81eed.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallhaven-j3rq6p.png
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallhaven-l3r1zl.png
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallhaven-l3rvep.png
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallhaven-v93v73.png
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallhaven-v93vw3.jpg
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallhaven-y8w3zl.png
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallpaper2.jpeg
+    - https://nasdaqgodzilla.github.io/gallery/cover/wallpaper7.jpeg
+    - https://picture.zwc365.com/getbing.jpg
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
