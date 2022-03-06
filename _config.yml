@@ -11,7 +11,7 @@ menu:
     分类: /categories/ || fas fa-folder-open
   文化走廊||fas fa-list:
     图库: /gallery/ || fas fa-images
-    视频: /videos/ || fas fa-video
+    # 视频: /videos/ || fas fa-video
     Link: /link/ || fas fa-link
   留言板: /messageboard/ || fas fa-comment-dots
   About: /about/ || fas fa-heart
