@@ -12,7 +12,8 @@ menu:
   文化走廊||fas fa-list:
     图库: /gallery/ || fas fa-images
     # 视频: /videos/ || fas fa-video
-    Link: /link/ || fas fa-link
+    喃喃自语: /talking/ || fas fa-cubes
+    友链: /link/ || fas fa-link
   留言板: /messageboard/ || fas fa-comment-dots
   About: /about/ || fas fa-heart
 
