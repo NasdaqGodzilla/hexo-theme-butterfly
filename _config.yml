@@ -16,6 +16,7 @@ menu:
     友链: /link/ || fas fa-link
   留言板: /messageboard/ || fas fa-comment-dots
   About: /about/ || fas fa-heart
+  sitemap: /sitemap.xml || fa fa-sitemap
 
 # Code Blocks (代碼相關)
 # --------------------------------------
