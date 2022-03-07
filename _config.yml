@@ -640,9 +640,10 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-    - 世事纷纷无穷尽&#44;天数茫茫不可逃
-    - 命自我立 福自己求
-    - Simple but not easy
+    - 神在码先  绵绵不绝
+    - 世事纷纷无穷尽  天数茫茫不可逃
+    - 命自我立  福自己求
+    - Simple&#44;  but not easy
 
 # Loading Animation (加載動畫)
 preloader: false
