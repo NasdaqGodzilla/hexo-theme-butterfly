@@ -124,7 +124,7 @@ cover:
   archives_enable: true
   # the position of cover in home page (封面顯示的位置)
   # left/right/both
-  position: both
+  position: left
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
     - https://nasdaqgodzilla.github.io/gallery/cover/57486f6c69401b4690618cb8.jpg
