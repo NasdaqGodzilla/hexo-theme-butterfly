@@ -43,6 +43,7 @@ copy:
 social:
   fab fa-github: https://github.com/NasdaqGodzilla || Github
   fas fa-envelope: mailto:aug3073911@outlook.com || Email
+  fas fa-rss: /atom.xml || Rss
 
 # search (搜索)
 # --------------------------------------
@@ -955,3 +956,6 @@ CDN:
   prismjs_js:
   prismjs_lineNumber_js:
   prismjs_autoloader:
+
+rss: /atom.xml
+
