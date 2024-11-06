@@ -93,7 +93,7 @@ disable_top_img: false
 # The banner image of home page
 # 获取bing每日壁纸
 # index_img: https://picture.zwc365.com/getbing.jpg
-index_img: https://nasdaqgodzilla.github.io/gallery/wallpaper/wallpaper1.png
+index_img: https://cdn.jsdelivr.net/gh/NasdaqGodzilla/PeacePicture/img/blogwallpaper.png
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
